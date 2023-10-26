@@ -2,6 +2,10 @@
 
 > MelodyHunter
 
+# Feature
+- Waveform analysis, using wavesurfer plug-in, demonstrating the wave form of the song.
+- AI recommend, using the third-party link to recomment producers based on the producer user typed in.
+
 # Credit
 [source code repository](https://github.com/Yin-Hongwei/music-website/tree/master/music-client)
 
