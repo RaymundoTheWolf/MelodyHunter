@@ -1,0 +1,28 @@
+@import "var.scss";
+@import "global.scss";
+
+.signUp {
+  position: absolute;
+  top: $header-height + 220px;
+  background-color: $color-white;
+  border-radius: 10px;
+  width: 350px;
+  margin-left: 1550px;
+  padding: 30px 30px;
+  box-shadow: 0px 0px 34px -5px #322C38;
+
+  .signUp-head {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .login-btn {
+    @include layout(space-between);
+    button {
+      display: block;
+      width: 50%;
+    }
+  }
+}
