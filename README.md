@@ -1,6 +1,9 @@
-# client
+# Introduction
 
-> MelodyHunter client
+> MelodyHunter
+
+# Credit
+[source code repository]https://github.com/Yin-Hongwei/music-website/tree/master/music-client
 
 ## Build Setup
 
