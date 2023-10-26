@@ -1,0 +1,12 @@
+@import "var.scss";
+@import "global.scss";
+
+#app {
+  background: -webkit-linear-gradient(top,#3498db,#2c3e50);
+  @include layout(flex-start, stretch, column);
+}
+
+.music-content {
+  flex: 1;
+  padding: 0 20px 10px 0;
+}
